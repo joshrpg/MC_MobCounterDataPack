@@ -1,0 +1,1 @@
+schedule function mobcounter:count_main 3s replace

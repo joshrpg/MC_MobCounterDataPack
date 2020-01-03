@@ -1,0 +1,1 @@
+scoreboard objectives setdisplay sidebar passive_count

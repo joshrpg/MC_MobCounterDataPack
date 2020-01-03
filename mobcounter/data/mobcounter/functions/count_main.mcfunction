@@ -1,0 +1,8 @@
+function mobcounter:count_reset
+
+function mobcounter:count_all
+function mobcounter:count_passive
+function mobcounter:count_hostile
+function mobcounter:count_neutral
+
+function mobcounter:schedule
